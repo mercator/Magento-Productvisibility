@@ -9,14 +9,8 @@
             "email": "tbirke@netextreme.de"
         }
     ],
-    "repositories": [
-        {
-            "type": "composer",
-            "url": "http://packages.firegento.com"
-        }
-    ],
     "minimum-stability": "dev",
     "require": {
-        "magento-hackathon/magento-composer-installer": "dev-master"
+        "magento-hackathon/magento-composer-installer": "*"
     }
 }
